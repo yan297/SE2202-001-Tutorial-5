@@ -4,12 +4,22 @@
  * @param {number[]} arr - The array of numbers to sort.
  */
 function selectionSort(arr) {
-    // TODO: Implement the selection sort algorithm.
-    // Hints:
-    // - Use a loop to iterate over each element in the array.
-    // - Within this loop, assume the current position is the minimum.
-    // - Use an inner loop to find the actual minimum element in the remaining unsorted portion.
-    // - Swap the found minimum element with the element at the current position.
+    
+    // Iterate over each element in the array
+    for () {
+        // Assume the current position is the minimum
+        
+        for () {
+            // Find the actual minimum element in the unsorted portion
+            if () {
+        
+            }
+        }
+        // Swap the found minimum element with the element at the current position
+        if () {
+           
+        }
+    }
 }
 
 // Test cases
