@@ -106,10 +106,10 @@ Implement the **Bubble Sort** algorithm to sort an array of numbers in ascending
 
 ## Submission Guidelines
 
-- **Code Files:**
-  - Submit your completed `selectionSort.js` and `bubbleSort.js` files.
+- **Code Files(here):**
+  - Push your completed `selectionSort.js` and `bubbleSort.js` files.
 
-- **Screenshots:**
+- **Screenshots(on Brightspace):**
   - Include screenshots of the console output for all test cases.
   - Ensure the outputs are clearly visible.
 
