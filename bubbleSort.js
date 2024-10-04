@@ -4,11 +4,11 @@
  * @param {number[]} arr - The array of numbers to sort.
  */
 function bubbleSort(arr) {
-    // TODO: Implement the bubble sort algorithm.
+    // TODO: Implement the bubble sort algorithm here.
     // Hints:
-    // - Use nested loops to compare adjacent elements.
-    // - Swap elements if they are in the wrong order.
-    // - An optimization is to track if a swap was made; if not, the array is sorted.
+    // - Compare each pair of adjacent elements and swap them if they are in the wrong order.
+    // - Repeat the process until no more swaps are needed.
+    // - You can track if a swap was made to optimize the algorithm.
 }
 
 // Test cases
